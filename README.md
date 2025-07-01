@@ -1,6 +1,11 @@
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/XXXXXXXXX/hqdefault.jpg)](https://www.youtube.com/watch?v=XXXXXXXXX)
+
+
 ![image](https://github.com/user-attachments/assets/7794aade-d481-4b0c-a472-8363c7800023)
 
-# 🌸 Flower for You
+# 🌸 Flower for Her
 
 A fun and sweet little project that displays animated flowers on the screen — just for you! 💐
 
